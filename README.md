@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @helenogar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning wed development and design
-- 💞️ I’m looking to collaborate on big names in this field
+- 💞️ I’m looking to collaborate with big names in this field
 - 📫 How to reach me on my social media handles: my ussername
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
